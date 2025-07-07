@@ -1,2 +1,2 @@
-tampilan baru
+tampilan awal
 
